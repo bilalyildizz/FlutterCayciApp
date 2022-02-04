@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828253613746",
+    "project_id": "cayci-6789f",
+    "storage_bucket": "cayci-6789f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828253613746:android:411172ccf053aaa82763ab",
+        "android_client_info": {
+          "package_name": "com.example.cayci_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828253613746-7f88bs7v5vj4q4fup1drmjh9l6nih19u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUy1QT2i5KINCIOIFh67erliCdfO0CSEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828253613746-7f88bs7v5vj4q4fup1drmjh9l6nih19u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
